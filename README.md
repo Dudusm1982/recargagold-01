@@ -1,28 +1,30 @@
-# RecargaGold - Landing Page UniTV 📺
+# RecargaGold - Página de Vendas UniTV 📺
 
-Este repositório contém uma landing page simples e moderna para venda dos planos UniTV pela RecargaGold.
+Este repositório apresenta uma landing page moderna e objetiva, criada para promover e vender assinaturas da UniTV por meio da revenda oficial RecargaGold.
 
-## 🔥 Funcionalidades
+## 🎯 Objetivo
 
-- Destaque para os planos: Mensal, Trimestral e Anual
-- Layout responsivo com cores vibrantes e identidade da marca
-- Botão de contato via WhatsApp com mensagem automática
-- Seções de conteúdo: Séries, Filmes, Esportes e Infantis
+Oferecer uma apresentação clara dos planos da UniTV com foco em conversão, praticidade e atendimento rápido via WhatsApp.
 
-## 🚀 Como usar
+## 🛒 Planos disponíveis
 
-1. Faça upload do arquivo `index.html` neste repositório
-2. Vá até **Settings > Pages**
-3. Em **Source**, selecione `main` e a pasta `/ (root)`
-4. Acesse sua página pelo link gerado:  
-   `https://seu-usuario.github.io/recargagold`
+- 💰 **Mensal** – R$24,90  
+- 💰 **Trimestral** – R$69,90  
+- 💰 **Anual** – R$169,90  
 
-## 📞 Contato
+(Valores promocionais atualizados — sujeitos a alteração conforme a revenda)
 
-Entre em contato diretamente pelo WhatsApp clicando no botão da página ou usando:  
-[https://wa.me/5521969344677](https://wa.me/5521969344677?text=Olá!%20Tenho%20interesse%20nos%20planos%20da%20UniTV%20que%20vi%20na%20RecargaGold.)
+## 🧾 Formas de pagamento
+
+- PIX ✅  
+- Cartão de Crédito ou Débito ✅  
+
+## 📱 Atendimento e vendas
+
+O atendimento é feito diretamente pelo WhatsApp, garantindo agilidade e suporte na ativação da sua assinatura:
+
+👉 [https://wa.me/5521969344677](https://wa.me/5521969344677?text=Olá!%20Tenho%20interesse%20nos%20planos%20da%20UniTV%20que%20vi%20na%20RecargaGold.)
 
 ---
 
-Feito com ❤️ para divulgar a UniTV e facilitar a venda de recargas digitais.# recargagold-01
-Site de venda de assinaturas UniTV e RecargaGold
+💡 Esta página foi criada para facilitar a vida de revendedores como você, que desejam ter uma vitrine digital profissional para divulgar os serviços da UniTV com agilidade e credibilidade.
